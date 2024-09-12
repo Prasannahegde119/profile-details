@@ -1,0 +1,8 @@
+.workspace {
+  flex: 1; /* Takes up remaining space */
+  padding: 1rem;
+  background-color: #fff; /* Optional: background color for workspace */
+  display: flex;
+  /* align-items: center; */
+  justify-content: center;
+}
